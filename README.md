@@ -4,19 +4,6 @@ This project is part of a Data Engineering assignment that simulates a distribut
 
 ---
 
-## 📁 Project Structure
-
-Qyrus_data_eng/
-├── app/ # FastAPI service
-│ └── main.py
-├── worker/ # SQS worker
-│ └── worker.py
-├── scripts/ # Utility scripts
-│ └── populate_sqs.py # Push test messages to SQS
-├── Dockerfile # For the worker container
-├── docker-compose.yml # Docker setup
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
 
 
 
